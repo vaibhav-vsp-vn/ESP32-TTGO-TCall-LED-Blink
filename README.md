@@ -23,4 +23,4 @@ This is my first GitHub project using the ESP32 TTGO T-Call board.
 Upload the code using Arduino IDE.
 
 ## Author
-Jay Patel
+Vaibhav Patel
